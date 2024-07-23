@@ -1,0 +1,19 @@
+create database : shop
+
+create table : user
+
+2 columns
+
+first email varchar(50) primary key
+second pass varchar(25) not null
+
+NOTE: when signup data is inserted
+
+create table : stock
+
+2 columns
+
+first id int primary key value(1)
+second index1 int not null value(10) 
+
+NOTE : insert this table from database yourself
